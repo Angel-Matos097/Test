@@ -28,6 +28,8 @@
         font-family: roboto;
         font-weight: 500;
         font-size: medium;
+        
+        
       }
     
       h1 {
@@ -58,6 +60,12 @@
         margin-bottom: 8px;
     }
     
+    .Seccion1 {
+        border: 1px red solid;
+        max-width: 480px;
+    }
+
+
       .Seccion1 .articles_images{
         margin-top: 40px;
         max-width: 1200px;
@@ -73,7 +81,7 @@
         flex-direction: column;
         flex-wrap: nowrap;
         gap: 0px;
-        width: 480px;
+        width: 100%;
         row-gap: 40px;
         
       }
@@ -93,7 +101,7 @@
         width: 340px;
         height: 340px;
 
-        width: 400px;
+        width: 100%;
         background-size: cover;
         background-position-y: -30px;
       }
@@ -108,7 +116,7 @@
         /* border: 1px red solid; */
 
         background-size: cover;
-        width: 400px;
+        width: 100%;
       }
     
       .Seccion1 .img_3{
@@ -118,7 +126,7 @@
         width: 340px;
         height: 340px;
 
-        width: 400px;
+        width: 100%;
         background-size: cover;
         background-position-y: -80px;
       }
@@ -130,7 +138,7 @@
         width: 340px;
         height: 340px;
 
-        width: 400px;
+        width: 100%;
         background-size: cover;
         background-position-y: -80px;
       }
@@ -142,7 +150,7 @@
         width: 340px;
         height: 340px;
 
-        width: 400px;
+        width: 100%;
         background-size: cover;
         background-position-y: -80px;
       }
@@ -154,7 +162,7 @@
         width: 700px;
         height: 336px;
 
-        width: 400px;
+        width: 100%;
         background-size: cover;
         
       }
@@ -166,7 +174,7 @@
         width: 340px;
         height: 340px;
 
-        width: 400px;
+        width: 100%;
         background-size: cover;
         background-position-y: -80px;
       }
